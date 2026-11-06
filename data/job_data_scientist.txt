@@ -1,0 +1,6 @@
+We are looking for a Data Scientist to join our analytics team. You will build
+machine learning models, analyze large datasets, and share insights with the
+business. Required skills: Python, SQL, pandas, numpy, scikit learn, statistics
+and machine learning. Experience with Tableau or Power BI for dashboards is a
+plus. Knowledge of deep learning, tensorflow or pytorch is an advantage. Strong
+communication skills are needed to explain results to non-technical teams.

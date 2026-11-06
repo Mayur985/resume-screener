@@ -1,0 +1,5 @@
+We are hiring a Web Developer to build and maintain company websites. You will
+write clean code, fix bugs, and work with designers. Required skills: HTML, CSS,
+JavaScript and React. Experience with Django or Flask, and databases such as
+MySQL or MongoDB is preferred. Familiarity with git and docker is a plus. Good
+communication and teamwork are important.
