@@ -48,6 +48,7 @@ Download it and place `Resume.csv` inside the `data/` folder.
 ```
 resume-screener/
 ├── app.py              # Streamlit app
+├── requirements.txt    # libraries to install
 ├── src/
 │   ├── cleaning.py     # text cleaning
 │   ├── skills.py       # skill list and skill matching
@@ -55,6 +56,7 @@ resume-screener/
 ├── notebooks/
 │   └── explore.ipynb   # data exploration
 ├── data/               # dataset and sample job descriptions
+├── screenshots/        # app screenshots for this README
 ├── .streamlit/
 │   └── config.toml     # dark theme
 └── README.md
