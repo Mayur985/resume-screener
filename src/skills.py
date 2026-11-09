@@ -10,6 +10,14 @@ SKILLS = [
     "communication", "leadership", "project management",
     "recruitment", "payroll", "accounting", "sales", "marketing",
     "onboarding", "employee relations", "performance reviews", "benefits", "training",
+    "flight operations", "instrument rating", "aircraft maintenance",
+    "safety compliance", "navigation", "air traffic control",
+    "ground operations", "customer service", "crew resource management",
+    "financial analysis", "risk management", "budgeting", "auditing",
+    "financial reporting", "tax", "compliance",
+    "lesson planning", "classroom management", "curriculum",
+    "patient care", "medical records", "triage",
+    "autocad", "quality control", "site supervision", "safety management",
 ]
 
 nlp = spacy.load("en_core_web_sm")

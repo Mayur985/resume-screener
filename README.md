@@ -79,5 +79,5 @@ Do not upload real resumes to this repository. PDFs are ignored by `.gitignore`.
 - [x] Match resumes to job using TF-IDF
 - [x] Build Streamlit app
 - [x] Add screenshots
-- [ ] Add more skills for other fields
+- [x] Add more skills for other fields
 - [ ] Improve matching with sentence embeddings
